@@ -3,9 +3,10 @@
         <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
     </a>
     <a href="https://mailtrap.io" target="_blank" style="display: inline-block; margin-left: 20px;">
-        <img src="https://cdn.mailtrap.io/assets/images/mailtrap_logo.svg" width="400" alt="Mailtrap Logo">
+        <img src="https://avatars.githubusercontent.com/u/23374403?s=200&v=4" width="400" alt="Mailtrap Logo">
     </a>
 </p>
+
 
 ## Laravel Mailtrap Email Integration
 
