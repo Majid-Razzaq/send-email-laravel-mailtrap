@@ -16,12 +16,12 @@
 ## How to Use
 
 1  Configure the Email in the .env File
-   MAIL_MAILER=smtp
-   MAIL_HOST=smtp.mailtrap.io
-   MAIL_PORT=465  # TLS: 587 | SSL: 465
-   MAIL_USERNAME=your-mailtrap-username
-   MAIL_PASSWORD=your-mailtrap-password
-   MAIL_ENCRYPTION=ssl  # encryption method: (tls | SSL)
+-  MAIL_MAILER=smtp
+-  MAIL_HOST=smtp.mailtrap.io
+-  MAIL_PORT=465  # TLS: 587 | SSL: 465
+-  MAIL_USERNAME=your-mailtrap-username
+-  MAIL_PASSWORD=your-mailtrap-password
+-  MAIL_ENCRYPTION=ssl  # encryption method: (tls | SSL)
 
 2  Configure the Email in App/Http/Controllers/FormController.php
    Mail::to('your-email@example.com')->send(new SendMail($mailData));
