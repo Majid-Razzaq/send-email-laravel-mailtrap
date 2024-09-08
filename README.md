@@ -3,7 +3,7 @@
         <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
     </a>
     <a href="https://mailtrap.io" target="_blank" style="display: inline-block; margin-left: 20px;">
-        <img src="https://raw.githubusercontent.com/KaueSena01/E-mails_Laravel/main/assets/mailtrap.png" width="400" alt="Mailtrap Logo">
+        <img src="https://raw.githubusercontent.com/KaueSena01/E-mails_Laravel/main/assets/mailtrap.svg" width="400" alt="Mailtrap Logo">
     </a>
 </p>
 
