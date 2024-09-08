@@ -47,5 +47,6 @@ php artisan serve
 
 ## Front-End Template
 
-![screencapture-localhost-8000-2024-09-08-20_05_23](https://github.com/user-attachments/assets/d2420e88-b2c9-470e-bb36-d312a27aaefb)
+![screencapture-localhost-8000-2024-09-08-20_07_23](https://github.com/user-attachments/assets/8dec9791-eadf-4c3f-8f33-31e78869ff4e)
+
 
