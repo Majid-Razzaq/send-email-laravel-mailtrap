@@ -44,3 +44,8 @@ php artisan migrate
 ```javascript
 php artisan serve
 ```
+
+## Front-End Template
+
+![screencapture-localhost-8000-2024-09-08-20_05_23](https://github.com/user-attachments/assets/d2420e88-b2c9-470e-bb36-d312a27aaefb)
+
